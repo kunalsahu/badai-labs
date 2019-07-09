@@ -1,0 +1,5 @@
+pip3 install -U textblob
+python -m nltk.downloader popular
+pip3 3install --user -U nltk
+pip3 install --user -U numpy
+# tensor flow
