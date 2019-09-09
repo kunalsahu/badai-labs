@@ -1,0 +1,10 @@
+pip3 install -U textblob
+python -m nltk.downloader popular
+pip3 3install --user -U nltk
+pip3 install --user -U numpy
+# tensor flow
+pip3 install SpeechRecognition
+sudo apt-get install python-pyaudio python3-pyaudio
+sudo apt-get install espeak
+pip3 install pyttsx3
+
